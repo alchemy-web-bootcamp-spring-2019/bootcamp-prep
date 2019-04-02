@@ -21,7 +21,7 @@ Then type `shell`
 ### Terminal Launch
 
 ```
-~/dev/project-name> code .
+~/projects/project-name> code .
 ```
 
 ### Default git Editor
