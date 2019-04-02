@@ -77,7 +77,8 @@ Topic | Notes
 Review         | Plus pizza and beverages
 Guest Panel    | Chat and Q&A with an ACL alums
 Wrap-up        | Q&A, discussion, next steps
-**Retro**      | What's working? What isn't? What can we change?
+**Retro**       | What did we notice this week? Any improvements moving forward? 
+
 
 ## Resources
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
