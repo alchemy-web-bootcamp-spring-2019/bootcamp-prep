@@ -15,3 +15,10 @@ Mob Programming is an intensive team-based programming practice. Think of the br
 
 1. **Break**: Industry-wide, the most recognized problem solving and software debugging tool is a break, free of electronics or screens, such as a drink of water, a short walk, or a refreshing chat.
 
+**Why**
+
+Mob programming is a cutting-edge software development practice; therefore you may or may not find work at a company that uses mob programming. 
+
+However due to the problems that mob programming solves in terms of elevated software quality, improved safety, elimination of bugs, accelerated learning, reduction of waste through rework, meetings, and handoffs, has made this a core practice at Alchemy. 
+
+Mobbing is a skill! Use your time in the mobs well and work to become a better Driver, Navigator, and Mobber.
