@@ -67,7 +67,7 @@ Topic | Notes
 Topic | Notes
 ---|---
 **Fizzbuzz: Round 2** | Solving FizzBuzz from the "Fake it till you make it" paradigm
-**Bonus Challenge: Input Output** | Logic and a taste of UI
+**Bonus Challenge: PlinkPlankPlonk** | Similar to fizzbuzz, but with 4, 7, 9.
 **Retro**       | What did we notice about our Tools, Environment, Resources, and Interactions? What can we improve? 
 
 ### Friday
