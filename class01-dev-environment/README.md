@@ -30,3 +30,7 @@ Day 1: Developer Tools
 ### Commit
 
 > [Checking in work](../commit.md)
+
+### Mob Programming
+
+> [Solving problems as a team](mob-programming.md)
