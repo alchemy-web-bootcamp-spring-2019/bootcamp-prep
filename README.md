@@ -14,19 +14,16 @@ This will include:
 
 By the end of this week you'll have leveled up your development skills!
 
-## Nightly Schedule
+## Nightly Schedule for the week
 
 Time           | Agenda       
 ---            |---           
-6:00 - 6:05    | _Intro/Review_ 
-6:05 - 6:10    | **Keyboard Shortcuts** 
-6:10 - 6:40    | **Topic A** + Try It Out     
-6:40 - 6:45    | _Retrospective_
-6:45 - 7:15    | **Topic B** + Try It Out  
-7:15 - 7:20    | _Retrospective_
-7:20 - 8:00    | _Break_      
-8:00 - 8:35    | **Topic B**    
-8:35 - 8:45    | _Commit_      
+6:00 - 6:10    | _Intro/Review_ 
+6:10 - 6:50    | _Mob Programming a topic_
+6:50 - 7:00    | _Break_  
+7:00 - 7:50    | _Mob Programming a topic_
+7:50 - 8:00    | _Break_
+8:00 - 8:45    | _Mob Programing a topic_     
 8:45 - 9:00    | _Nightly Retrospective_ 
 
 ## Day-by-Day Agendas
@@ -50,27 +47,28 @@ _Intro_         | On the job training
 **Git/VSCode**  | Integrated Development Environment (IDE)
 **Markdown**    | Write docs the developers way
 _Commit_        | Checking in work
-**Retro**       | What's working? What isn't? What can we change?
+**Retro**       | What did we notice about our Tools, Environment, Resources, and Interactions? What can we improve? 
 
 ### Tuesday
 
 Topic | Notes
 ---|---
-Review                | Using JavaScript
-button/input          | basic user input
-functions/`onclick`   | Saving code for later
-read DOM              | Finding and reading values from inputs
-write DOM             | Updating content
-_Commit_              | Checking in work
-**Retro**             | What's working? What isn't? What can we change?
+**TDD** | Solving simple problems with TDD
+**QUnit** | Our browser-based testing tool
+**Retro** | What did we notice about our Tools, Environment, Resources, and Interactions? What can we improve? 
 
 ### Wednesday
-
-TBA
+Topic | Notes
+---|---
+**Fizzbuzz** | Solving the "FizzBuzz" problem with TDD
+**Retro** | What did we notice about our Tools, Environment, Resources, and Interactions? What can we improve? 
 
 ### Thursday  
-
-TBA
+Topic | Notes
+---|---
+**Fizzbuzz: Round 2** | Solving FizzBuzz from the "Fake it till you make it" paradigm
+**Bonus Challenge: PlinkPlankPlonk** | A fizzbuzz alternative with 4, 5, and 9.
+**Retro**       | What did we notice about our Tools, Environment, Resources, and Interactions? What can we improve? 
 
 ### Friday
 
