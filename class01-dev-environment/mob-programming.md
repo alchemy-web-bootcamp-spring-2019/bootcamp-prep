@@ -13,7 +13,7 @@ Mob Programming is an intensive team-based programming practice. Think of the br
 
 1. **Brief Retrospectives**: In a brief 1-5 minute retrospective, the mob asks itself what they noticed about their Tools, Environment, Interactions, and Resources. Out of those observations, is there anything they can improve with a simple change?
 
-1. **Break**: Industry-wide, the most recognized problem solving and software debugging tool is a break, free of electronics or screens, such as a drink of water, a short walk, or a refreshing chat.
+1. **Break**: Industry-wide, the most recognized problem-solving and software-debugging tool is a break, free of electronics or screens, such as a drink of water, a short walk, or a refreshing chat.
 
 **Why**
 
