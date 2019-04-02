@@ -13,13 +13,9 @@ Here at ACL, we recommend the following tools:
 
 ### Helpful tools
 
-- [Agent Ransack](https://chocolatey.org/packages/agentransack)
-- [Heroku CLI tools](https://devcenter.heroku.com/articles/heroku-cli)
-- [Ruby](https://chocolatey.org/packages/ruby)
-- [Travis CI tools](https://github.com/travis-ci/travis.rb#installation)
-- [nvm for Windows](https://github.com/coreybutler/nvm-windows/releases)
-- [Fiddler](https://chocolatey.org/packages/fiddler)
-- [Postman](https://chocolatey.org/packages/postman)
+- [Agent Ransack](https://chocolatey.org/packages/agentransack) - a better search tool for your computer.
+- [Fiddler](https://chocolatey.org/packages/fiddler) - remember this for much later
+- [Postman](https://chocolatey.org/packages/postman) - also for much later
 
 ### Other helpful hints
 
