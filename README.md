@@ -46,7 +46,7 @@ _Intro_         | On the job training
 **Github/Git**  | Managing Code
 **Git/VSCode**  | Integrated Development Environment (IDE)
 **Markdown**    | Write docs the developers way
-_Commit_        | Checking in work
+**Mob Programming** | Mobbing on a simple challenge.
 **Retro**       | What did we notice about our Tools, Environment, Resources, and Interactions? What can we improve? 
 
 ### Tuesday
