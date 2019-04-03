@@ -1,7 +1,7 @@
 fizz-buzz
 ===
 
-TDD a pure function that takes a integer number and returns a string of all numbers up to and including the supplied number, except:
+TDD a pure function that takes an integer and returns a string of all numbers up to and including the supplied number, except:
 
 1. Numbers evenly divisable by 3 should be replace with `Fizz`
 1. Numbers evenly divisable by 5 should be replace with `Bizz`

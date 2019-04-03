@@ -12,11 +12,10 @@ Day 5: Alum Q&A plus Next Steps
 ### Resources from Bootcamp Prep
 
 * Repository is live, so review information
-* My in-class work: github.com/martypdx
 
 ### Study Night
 
-Tuesday and Thursday Study Nights
+Study Night next week on Wednesday at 6:30pm.
 
 ### Priorities
 
