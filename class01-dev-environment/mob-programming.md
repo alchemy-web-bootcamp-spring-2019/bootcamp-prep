@@ -1,5 +1,9 @@
 Mob Programming
 ==
+**Prep**
+
+Install Mobster on your machine: http://mobster.cc/. Click the download button at the top. If you have windows or linux, click the "other platforms" link below it.
+
 
 **What**
 
